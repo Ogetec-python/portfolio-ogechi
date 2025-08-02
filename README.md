@@ -5,11 +5,11 @@ This portfolio was built as part of the PLP Academy Hackathon (July 2025 Cohort)
 ## 🌐 Live Site
 [Click here to view](https://ogetec-python.github.io/portfolio-ogechi/)
 
-## 🔧 Tech Used
+##  Tech Used
 - HTML5
 - CSS3
 
-## 📄 Sections Included
+##  Sections Included
 - About Me
 - Skills (Programming Languages)
 - Educational Background + Downloadable CV
@@ -17,5 +17,5 @@ This portfolio was built as part of the PLP Academy Hackathon (July 2025 Cohort)
 - Interests
 - Contact Form
 
-## 🧠 Built by
+##  Built by
 Obinwa Ogechi Perpetual | [ogechiobinwa@gmail.com](mailto:ogechiobinwa@gmail.com)
